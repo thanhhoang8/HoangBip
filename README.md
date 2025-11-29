@@ -1,37 +1,41 @@
 <!DOCTYPE html>
-<head>
-    <meta charset="UTF-8">
-    <title>Câu Lạc Bộ Bóng Rổ</title>
-</head>
-<body>
-    <audio scr="https://www.youtube.com/watch?v=JrqD3qESdvU" autoplay>
-    </audio>
-    <center>
-        <h1>Câu Lạc Bộ Bóng Rổ Yên Hòa</h1>
-        <h2>Chào mừng đến với trang web chính thức của câu lạc bộ!</h2>
-        <img src="https://sf-static.upanhlaylink.com/img/image_202511216b639a6ce612246ffbeef0afe7155797.jpg" alt="CLB Bóng Rổ">
-    </center>
-    <br>
-    <hr>
-    <hr>
-    <br>
-    <p>Để theo dõi những tin tức mới nhất về bóng rổ, hãy like và follow:
-Fanpage: <a href="https://www.facebook.com/bballtour.vn">Bballtour</a></p>
-     <p>Câu lạc bộ bóng rổ dành cho mọi lứa tuổi và trình độ, tập trung vào kỹ năng và tinh thần đồng đội.</p>
-    <table>
+<html>
+  <body>
+    <table border="1">
+      <caption><h1>Thời Khóa Biểu</h1></caption>
       <tr>
-        <th>Giới Thiệu</th><th>Thông tin & shop giày của CLB</th>
+        <th></th><th>Thứ 2</th><th>Thứ 3</th><th>Thứ 4</th><th>Thứ 5</th><th>Thứ 6</th><th>Thứ 7</th>
       </tr>
       <tr>
-        <td><video src="https://pouch.jumpshare.com/preview/YhL88vBi5EjauRt29TpxvbZvQOk_oPFGDyvlF5qiL-gDCvGaepSv9pByNaRrMOxBPMMA8NDb6UPs8jV66-sAmt6ZLthuWbECHKJBJLSJfPKh-ZlEtirvFQvv9V_Doc9LiUmKLqKG8UqISEp8Sk3hPW6yjbN-I2pg_cnoHs_AmgI.mp4" width="640" height="360" autoplay muted controls>
-        </video></td>
-        <td><iframe src="https://giaybongro.vn/gioi-thieu/yen-hoa-basketball-league-2022-da-tim-ra-nha-vo-dich-mua-giai-moi-66.html" width="640" height="360" frameborder="0" allowfullscreen></iframe></td>
-    </tr>
+        <th rowspan="5" style="width: 80px">Sáng</th><td>Chào cờ</td><td>Toán</td><td>Văn</td><td>Tiếng Anh</td><td>Tiếng Anh</td><td>Lý</td>
+      </tr>
+      <tr>
+        <td>SHL</td><td>Toán</td><td>Văn</td><td>GDĐP</td><td>Tiếng Anh</td><td>Sử</td>
+      </tr>
+      <tr>
+        <td>Lý</td><td>Hóa</td><td>Tin</td><td>GDQP</td><td>Hóa</td><td>Toán</td>
+      </tr>
+      <tr>
+        <td>Tin</td><td>Văn</td><td>Văn</td><td>Văn</td><td>Lý</td><td>Sinh</td>
+      </tr>
+      <tr>
+        <td>Tin</td><td>HĐTN</td><td>Toán</td><td>Văn</td><td>Văn</td><td>Tin</td>
+      </tr>
+      <tr>
+        <th rowspan="5">Chiều</th><td>GDTC</td><td></td><td>Sinh</td><td></td><td></td><td></td>
+      </tr>
+      <tr>
+        <td>GDTC</td><td></td><td>GDĐP</td><td></td><td></td><td></td>
+      </tr>
+      <tr>
+        <td>Sử</td><td></td><td>PCTN</td><td></td><td></td><td></td>
+      </tr>
+      <tr>
+        <td></td><td></td><td></td><td></td><td></td><td></td>
+      </tr>
+      <tr>
+        <td></td><td></td><td></td><td></td><td></td><td></td>
+      </tr>
     </table>
-    <br>
-    <br>
-    <hr>
-</body>
+  </body>
 </html>
-
-
